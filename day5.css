@@ -1,0 +1,167 @@
+.head{
+    width: 100%;
+    
+    
+    display: flex;
+    
+}
+body{
+    margin: 0;
+}
+.div1{
+    
+    height: 60px;
+    width: 80px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+img{
+    height:40px;
+
+}
+.div2{
+   
+    width: 655px;
+    height: 60px;
+    display: flex;
+    justify-content: space-around;
+
+    align-items: center;
+}
+button{
+background-color:white;
+    border: none;
+}
+
+button:hover{
+    background-color: rgb(17, 146, 49);
+}
+.srhb{
+    margin-left: -55px;
+    border: none;
+    border-radius:20px;
+    
+}
+
+.inputsrh{
+    border-radius:20px;
+    height: 25px;
+   
+}
+
+.toggle{
+    height:25px;
+    width: 25px;
+    
+}
+.toggle:hover{
+    opacity:.5;
+}
+
+.div3{
+    background-color: white;
+    width:625px;
+display: flex;
+justify-content: space-around;
+align-items: center;
+   
+}
+.plus{
+    
+    height:45px;
+    width: 100px;
+    border-radius: 20px;
+display: flex;
+align-items: center;
+justify-content: center;    
+}
+.plus:hover{
+    background-color: #bebebe;
+}
+.for{
+    height:45px;
+    width: 130px;  
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+}
+.for:hover{
+    background-color: #bebebe;
+}
+.space{
+    height:45px;
+    width: 80px;
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+}
+.space:hover{
+    background-color: #bebebe;
+}
+.Get{
+    height:45px;
+    width: 120px;
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+}
+.Get:hover{
+    background-color: #bebebe;
+}
+.sig{
+    height:60px;
+    width: 160px;
+    position: relative;
+ 
+}
+.log{
+    height:40px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position:absolute;
+    right: 0px;
+    top:9px;
+    background-color: #cce6cd;
+    border-radius:100px;
+}
+.log:hover{
+    background-color: #04AA6D;
+}
+.sing{
+    height:40px;
+    width: 95px;
+    margin-top: 9px;
+    background-color: #04AA6D;
+    border-radius:20px ;
+    position:absolute;
+    left:0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sing:hover{
+    background-color: #19664a;
+}
+
+.nav{
+    width: 100%;
+    height: 40px;
+   
+    background-color: rgb(73, 72, 72);
+display: flex;
+justify-content: space-between;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding:10px 15px 10px 15px;
+    
+}
+a:hover{
+    background-color:#282A35;
+}
